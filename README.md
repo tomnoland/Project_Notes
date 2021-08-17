@@ -15,9 +15,9 @@ This is a place to consolidate all my project notes.
 
 # All the Command-Line Keyboard Shortcuts You Need to Know
 
-Emacs Mode
+## Emacs Mode
 
-Moving the cursor
+### Moving the cursor
 
 CTRL-A/HOME: Move to the beginning of a line.
 
@@ -33,7 +33,7 @@ ALT-F/CTRL-RIGHT: Move right one word.
 
 CTRL-XX: Hold CTRL and press X twice to move the cursor to the beginning of the line, and hold CTRL and press X twice again to move the cursor back.
 
-Editing text
+### Editing text
 
 CTRL-U: Cut all the characters.
 
@@ -57,7 +57,7 @@ ALT-U: Change one word to the right to uppercase.
 
 ALT-L: Change one word to the right to lowercase.
 
-Command completion
+### Command completion
 
 TAB: Attempt shell expansion on the current word. If that fails, attempt completion.
 
@@ -75,7 +75,7 @@ CTRL-S: Stop screen output. Useful for preventing processes from spamming the st
 
 CTRL-Q: Resume screen output.
 
-Managing processes
+### Managing processes
 
 CTRL-C: Terminate the foreground process. (Also can be used to delete the whole line.)
 
@@ -83,7 +83,7 @@ CTRL-Z: Suspend the foreground process (use fg and bg to resume).
 
 CTRL-D: Exit shell (just like exit).
 
-Accessing Command History
+### Accessing Command History
 
 CTRL-R: Search the command history. Accept with ENTER/RETURN, abort with CTRL-G.
 
