@@ -12,15 +12,25 @@ This is a place to consolidate all my project notes.
 ---
 
 Emacs Mode
+
 Moving the cursor
+
 CTRL-A/HOME: Move to the beginning of a line.
+
 CTRL-E/END: Move to the end of a line.
+
 CTRL-B/LEFT: Move left one character.
+
 CTRL-F/RIGHT: Move right one character.
+
 ALT-B/CTRL-LEFT: Move left one word.
+
 ALT-F/CTRL-RIGHT: Move right one word.
+
 CTRL-XX: Hold CTRL and press X twice to move the cursor to the beginning of the line, and hold CTRL and press X twice again to move the cursor back.
+
 Editing text
+
 CTRL-U: Cut all the characters.
 CTRL-K: Cut the characters to the right of the cursor.
 CTRL-H/BACKSPACE/DELETE (MACOS): Delete one character to the left.
