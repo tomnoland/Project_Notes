@@ -20,9 +20,7 @@
 
 ---
 
-# All the Command-Line Keyboard Shortcuts You Need to Know
-
-## Emacs Mode
+## All the Command-Line Keyboard Shortcuts You Need to Know - Emacs Mode
 
 ### Moving the cursor
 
