@@ -6,7 +6,7 @@ This is a place to consolidate all my project notes.
 [Template for new projects](https://github.com/tomnoland/New-Project-Template/generate)
 
 ```sh
-XXX
+Example_of_shell_code_block
 ```
 ---
 
