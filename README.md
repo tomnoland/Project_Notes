@@ -9,10 +9,11 @@ This is a place to consolidate all my project notes.
 
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
+---
+
 ```sh
 Example_of_shell_code_block
 ```
----
 
 ```sh
 cd /Volumes/Data/Projects
