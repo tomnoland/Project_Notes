@@ -11,6 +11,8 @@ This is a place to consolidate all my project notes.
 
 ---
 
+# All the Command-Line Keyboard Shortcuts You Need to Know
+
 Emacs Mode
 
 Moving the cursor
