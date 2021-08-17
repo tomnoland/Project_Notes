@@ -1,12 +1,22 @@
 # Project_Notes
 This is a place to consolidate all my project notes.
+
 ---
 
-
-
-
-
 [Template for new projects](https://github.com/tomnoland/New-Project-Template/generate)
+
+---
+
+```sh
+cd /Volumes/Data/Projects
+```
+```sh
+cd ~
+```
+```sh
+XXX
+```
+
 
 cd /Volumes/Data/Projects
 
