@@ -72,14 +72,23 @@ Managing the screen
 CTRL-L: Clear screen (just like clear).
 
 CTRL-S: Stop screen output. Useful for preventing processes from spamming the stdout.
+
 CTRL-Q: Resume screen output.
+
 Managing processes
+
 CTRL-C: Terminate the foreground process. (Also can be used to delete the whole line.)
+
 CTRL-Z: Suspend the foreground process (use fg and bg to resume).
+
 CTRL-D: Exit shell (just like exit).
+
 Accessing Command History
+
 CTRL-R: Search the command history. Accept with ENTER/RETURN, abort with CTRL-G.
+
 CTRL-P/UP: The previous command in history.
+
 CTRL-N/DOWN: The next command in history.
 
 ---
