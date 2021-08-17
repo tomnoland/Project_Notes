@@ -1,6 +1,8 @@
 # Project_Notes
 This is a place to consolidate all my project notes.
 
+[All the Command-Line Keyboard Shortcuts You Need to Know](xxx)
+
 ---
 
 [Template for new projects](https://github.com/tomnoland/New-Project-Template/generate)
