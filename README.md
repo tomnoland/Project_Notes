@@ -1,6 +1,8 @@
 # Project_Notes
 This is a place to consolidate all my project notes.
 
+---
+
 [All the Command-Line Keyboard Shortcuts You Need to Know](#all-the-command-line-keyboard-shortcuts-you-need-to-know)
 
 ---
